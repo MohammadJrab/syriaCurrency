@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mohammadjrab.dev.syiran_pounds",
+      "sha256_cert_fingerprints": [
+        "BE:BB:B8:B7:E4:28:4B:1D:16:B9:77:96:13:56:16:7D:7F:C8:FB:65:72:7B:1E:EA:92:19:C6:C2:18:77:02:A7"
+      ]
+    }
+  }
+]
